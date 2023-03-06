@@ -4,7 +4,7 @@ A restaurant website I developed for an exotic Kenyan restaurant called Catrix.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Catrix website is a a clean and elegant showcase of our menu and ambiance. We provide all the necessary information, including hours of operation, location, and contact details, so you can easily find us and make a reservation.
 
 ## Getting Started
 
