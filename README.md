@@ -16,7 +16,7 @@ Catrix website is a a clean and elegant showcase of our menu and ambiance. We pr
 ### Installing
 
 * Click to the code button of this repo & copy http/ssh link
-* Open path to your folder location with terminal then git clone 
+* Open path to your folder location using terminal then git clone https://github.com/JohnKamaujk/catrix.git
 * Run the application by opening it on your IDE.
 
 ### Executing program
@@ -36,16 +36,15 @@ command to run if program contains helper info
 
 ## Authors
 
-Contributors 
-
-ex. John Kamau  
-ex. [JohnKamaujk](https://twitter.com/dompizzie)
+###Contributors 
+  
+ex. [JohnKamaujk](https://github.com/JohnKamaujk)
 
 ## Version History
 
 * 0.2
     * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
+    * See [commit change]() & [release history]
 * 0.1
     * Initial Release
 
