@@ -10,13 +10,14 @@ Catrix website is a a clean and elegant showcase of our menu and ambiance. We pr
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* OS system.
+* VS code editor or any other IDE.
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Click to the code button of this repo & copy http/ssh link
+* Open path to your folder location with terminal then git clone 
+* Run the application by opening it on your IDE.
 
 ### Executing program
 
@@ -35,10 +36,10 @@ command to run if program contains helper info
 
 ## Authors
 
-Contributors names and contact info
+Contributors 
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+ex. John Kamau  
+ex. [JohnKamaujk](https://twitter.com/dompizzie)
 
 ## Version History
 
