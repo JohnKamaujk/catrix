@@ -36,7 +36,7 @@ command to run if program contains helper info
 
 ## Authors
 
-###Contributors 
+### Contributors 
   
 ex. [JohnKamaujk](https://github.com/JohnKamaujk)
 
@@ -44,7 +44,7 @@ ex. [JohnKamaujk](https://github.com/JohnKamaujk)
 
 * 0.2
     * Various bug fixes and optimizations
-    * See [commit change]() & [release history]
+    * See [commit change]() & [release history]()
 * 0.1
     * Initial Release
 
